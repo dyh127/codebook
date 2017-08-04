@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(1): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(1): error C3872: '0xa0': this character is not allowed in an identifier
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(8): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(8): error C3872: '0xa0': this character is not allowed in an identifier
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(9): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(9): error C3872: '0xa0': this character is not allowed in an identifier
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(9): error C2146: syntax error: missing ';' before identifier '  '
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(11): error C3872: '0xa0': this character is not allowed in an identifier
+c:\users\135827\documents\visual studio 2017\projects\codebook1\codebook1\source.cpp(11): fatal error C1021: invalid preprocessor command 'include '
